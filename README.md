@@ -16,7 +16,7 @@ I'm currently working on building projects and learning DSA.
      3) They type what they have done to find the answer to this question, whether it be read an article, watch a video, etc.
      4) The AI guide asks it a question, the user answers it. This happens 3 times where the AI guide uses questions to push the user to the right direction in obtaining an answer.
    
- - **Currently Building TradeZone** - An ML model that predicts whether a Fantasy Football Trade will we a good trade or not. 
+ - **Currently Building TradeZone** - An ML model that predicts whether a Fantasy Football Trade will be a good trade or not. 
 
 Reach Me:
   e-mail: sparsh.shah@uwaterloo.ca
