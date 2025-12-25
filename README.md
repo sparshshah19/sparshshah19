@@ -16,7 +16,7 @@ I'm currently working on building projects and learning DSA.
      3) They type what they have done to find the answer to this question, whether it be read an article, watch a video, etc.
      4) The AI guide asks it a question, the user answers it. This happens 3 times where the AI guide uses questions to push the user to the right direction in obtaining an answer.
    
- - **Trade Regret Simulator (Fantasy Football)** ** - An ML model that predicts how the rest of the season would have occured if a **TRADE DID NOT HAPPEN.** 
+ - **Trade Regret Simulator (Fantasy Football)** - An ML model that predicts how the rest of the season would have occured if a) a trade did not happen, or b) predict a player's next week fantasy points.  
 
 Reach Me:
   e-mail: sparsh.shah@uwaterloo.ca
