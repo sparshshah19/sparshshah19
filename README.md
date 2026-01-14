@@ -2,7 +2,7 @@ Hi, it's Sparsh, an engineer at the University of Waterloo, interested in buildi
 
 I'm currently working on building projects and learning DSA. 
 
-**Projects So Far**
+**Core Projects**
   - **Hands** - Hands helps you organize your recipes, decide what to cook, and shop effortlessly. It's the best way to cook with AI. Import any recipe from your favorite blogs, Instagram, and TikTok. Plan weekly meals based on what you like to eat. Find saved recipes by ingredient. Build a smart shopping list in seconds.
 
    - **Trade Regret Simulator (Fantasy Football)** - An ML model that predicts how the rest of the season would have occured if a) a trade did not happen, or b) predict a player's next week fantasy points.
