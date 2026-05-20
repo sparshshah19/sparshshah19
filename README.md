@@ -1,7 +1,6 @@
 Hi, it's Sparsh, an engineer at the University of Waterloo, interested in building cool and useful products.
 
-Reach Me:
-  e-mail: sparsh.shah@uwaterloo.ca
+e-mail: sparsh.shah@uwaterloo.ca
 
 <!--
 **sparshshah19/sparshshah19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
