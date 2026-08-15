@@ -1,4 +1,4 @@
-Hi, it's Sparsh, an engineer at the University of Waterloo, interested in building cool and useful products.
+Hi, it's Sparsh, an engineer at the University of Waterloo, interested in utilizing data to build pipelines, extract insights, and build cool + useful products.
 
 e-mail: sparsh.shah@uwaterloo.ca
 
